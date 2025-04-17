@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LetsSee</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string name="default_web_client_id">63126286309-02nbrp1jv1d2977llsou4j8act5iibg2.apps.googleusercontent.com</string>
+
+</resources>

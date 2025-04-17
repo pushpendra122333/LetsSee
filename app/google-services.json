@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63126286309",
+    "project_id": "letssee-ab47c",
+    "storage_bucket": "letssee-ab47c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63126286309:android:68d30b7a3b4cef1cea490c",
+        "android_client_info": {
+          "package_name": "com.example.letssee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjohkgnYgfd__wGT6DSMsSiFYyzRdWCpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
